@@ -6,7 +6,7 @@ from datetime import datetime
 products = {"Mild": 3.00, "Hot": 3.00, "Honey Mustard": 3.00}
 HST_RATE = 0.13  # 13% HST
 initial_investments = [
-    ["CAP001", "2025-01-01", "Owner Capital Contribution", 20000.00, "Cash", "Initial capital"],
+    ["CAP001", "2025-01-01", "Owner Capital Contribution", 50000.00, "Cash", "Initial capital"],
     ["CAP002", "2025-01-02", "Equipment Purchase", -5000.00, "Equipment", "Bottling machine"],
     ["CAP003", "2025-01-03", "Kitchen Lease Agreement", -12000.00, "Prepaid Rent", "1-year commercial kitchen rental"]
 ]
