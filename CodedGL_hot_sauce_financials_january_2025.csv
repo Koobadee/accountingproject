@@ -1,0 +1,113 @@
+Date,Description,Account,Debit,Credit
+01-01-25,Owner Capital Contribution,Cash,50000,
+01-01-25,Owner Capital Contribution,Owner's Equity,,50000
+02-01-25,Equipment Purchase,Equipment,5000,
+02-01-25,Equipment Purchase,Cash,,5000
+03-01-25,Kitchen Lease Agreement,Prepaid Rent,12000,
+03-01-25,Kitchen Lease Agreement,Cash,,12000
+04-01-25,Business Registration,Licences and Fees,250,
+04-01-25,Business Registration,Cash,,250
+05-01-25,Food Production Permit,Licences and Fees,150,
+05-01-25,Food Production Permit,Cash,,150
+06-01-25,Bottles Purchase,Inventory - Bottles,250,
+06-01-25,Bottles Purchase,HST payable,32.5,
+06-01-25,Bottles Purchase,Accounts payable,,282.5
+06-01-25,Packaging Purchase,Inventory - Packaging,200,
+06-01-25,Packaging Purchase,HST payable,26,
+06-01-25,Packaging Purchase,Accounts payable,,226
+07-01-25,Website Setup,Marketing Expense,300,
+07-01-25,Website Setup,HST payable,39,
+07-01-25,Website Setup,Accounts payable,,339
+06-01-25,Ingredients Purchase,Inventory,37.82,
+06-01-25,Ingredients Purchase,HST payable,4.92,
+06-01-25,Ingredients Purchase,Accounts payable,,42.74
+15-01-25,Electricity Bill,Utilities Expense,200,
+15-01-25,Electricity Bill,HST payable,26,
+15-01-25,Electricity Bill,Accounts payable,,226
+15-01-25,Water Bill,Utilities Expense,100,
+15-01-25,Water Bill,HST payable,13,
+15-01-25,Water Bill,Accounts payable,,113
+15-01-25,Gas Bill,Utilities Expense,150,
+15-01-25,Gas Bill,HST payable,19.5,
+15-01-25,Gas Bill,Accounts payable,,169.5
+15-01-25,Internet Bill,Utilities Expense,80,
+15-01-25,Internet Bill,HST payable,10.4,
+15-01-25,Internet Bill,Accounts payable,,90.4
+10-01-25,Salary Payment,Wages Expense,2173.08,
+10-01-25,Salary Payment,HST payable,,250
+10-01-25,Salary Payment,Cash,,1923.08
+24-01-25,Salary Payment,Wages Expense,2173.08,
+24-01-25,Salary Payment,HST payable,,250
+24-01-25,Salary Payment,Cash,,1923.08
+03-01-25,Hourly Wage Payment,Wages Expense,293.8,
+03-01-25,Hourly Wage Payment,HST payable,,33.8
+03-01-25,Hourly Wage Payment,Cash,,260
+10-01-25,Hourly Wage Payment,Wages Expense,497.2,
+10-01-25,Hourly Wage Payment,HST payable,,57.2
+10-01-25,Hourly Wage Payment,Cash,,440
+17-01-25,Hourly Wage Payment,Wages Expense,406.8,
+17-01-25,Hourly Wage Payment,HST payable,,46.8
+17-01-25,Hourly Wage Payment,Cash,,360
+24-01-25,Hourly Wage Payment,Wages Expense,497.2,
+24-01-25,Hourly Wage Payment,HST payable,,57.2
+24-01-25,Hourly Wage Payment,Cash,,440
+08-01-25,Sale - Mild,Cash,13.56,
+08-01-25,Sale - Mild,HST payable,,1.56
+08-01-25,Sale - Mild,Sales Revenue,,12
+09-01-25,Sale - Mild,Cash,13.56,
+09-01-25,Sale - Mild,HST payable,,1.56
+09-01-25,Sale - Mild,Sales Revenue,,12
+10-01-25,Sale - Hot,Cash,3.39,
+10-01-25,Sale - Hot,HST payable,,0.39
+10-01-25,Sale - Hot,Sales Revenue,,3
+11-01-25,Sale - Hot,Cash,3.39,
+11-01-25,Sale - Hot,HST payable,,0.39
+11-01-25,Sale - Hot,Sales Revenue,,3
+12-01-25,Sale - Honey Mustard,Cash,3.39,
+12-01-25,Sale - Honey Mustard,HST payable,,0.39
+12-01-25,Sale - Honey Mustard,Sales Revenue,,3
+13-01-25,Sale - Honey Mustard,Cash,16.95,
+13-01-25,Sale - Honey Mustard,HST payable,,1.95
+13-01-25,Sale - Honey Mustard,Sales Revenue,,15
+14-01-25,Sale - Hot,Cash,6.78,
+14-01-25,Sale - Hot,HST payable,,0.78
+14-01-25,Sale - Hot,Sales Revenue,,6
+15-01-25,Sale - Honey Mustard,Cash,6.78,
+15-01-25,Sale - Honey Mustard,HST payable,,0.78
+15-01-25,Sale - Honey Mustard,Sales Revenue,,6
+16-01-25,Sale - Hot,Cash,16.95,
+16-01-25,Sale - Hot,HST payable,,1.95
+16-01-25,Sale - Hot,Sales Revenue,,15
+17-01-25,Sale - Honey Mustard,Cash,13.56,
+17-01-25,Sale - Honey Mustard,HST payable,,1.56
+17-01-25,Sale - Honey Mustard,Sales Revenue,,12
+18-01-25,Sale - Hot,Cash,3.39,
+18-01-25,Sale - Hot,HST payable,,0.39
+18-01-25,Sale - Hot,Sales Revenue,,3
+19-01-25,Sale - Honey Mustard,Cash,13.56,
+19-01-25,Sale - Honey Mustard,HST payable,,1.56
+19-01-25,Sale - Honey Mustard,Sales Revenue,,12
+20-01-25,Sale - Hot,Cash,6.78,
+20-01-25,Sale - Hot,HST payable,,0.78
+20-01-25,Sale - Hot,Sales Revenue,,6
+21-01-25,Sale - Mild,Cash,16.95,
+21-01-25,Sale - Mild,HST payable,,1.95
+21-01-25,Sale - Mild,Sales Revenue,,15
+22-01-25,Sale - Mild,Cash,6.78,
+22-01-25,Sale - Mild,HST payable,,0.78
+22-01-25,Sale - Mild,Sales Revenue,,6
+23-01-25,Sale - Hot,Cash,16.95,
+23-01-25,Sale - Hot,HST payable,,1.95
+23-01-25,Sale - Hot,Sales Revenue,,15
+24-01-25,Sale - Mild,Cash,16.95,
+24-01-25,Sale - Mild,HST payable,,1.95
+24-01-25,Sale - Mild,Sales Revenue,,15
+25-01-25,Sale - Hot,Cash,6.78,
+25-01-25,Sale - Hot,HST payable,,0.78
+25-01-25,Sale - Hot,Sales Revenue,,6
+26-01-25,Sale - Mild,Cash,13.56,
+26-01-25,Sale - Mild,HST payable,,1.56
+26-01-25,Sale - Mild,Sales Revenue,,12
+27-01-25,Sale - Honey Mustard,Cash,6.78,
+27-01-25,Sale - Honey Mustard,HST payable,,0.78
+27-01-25,Sale - Honey Mustard,Sales Revenue,,6
