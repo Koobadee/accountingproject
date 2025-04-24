@@ -1,12 +1,8 @@
 # Accounting Project
+
 Unadjusted Trial Balance - https://rpubs.com/kubackidave/1301450
 
-This is an accounting project I am doing of a fictional food manufacturing company.
+This project simulates the accounting processes of a fictional food manufacturing company. I’m building it to practice and showcase my accounting skills while experimenting with programming. The code generates random transaction datasets, which I code into a general ledger and use to create financial statements. 
+As an ongoing project, I’ll continue adding new scenarios to deepen my accounting knowledge. Feel free to explore or share, as this could be a useful exercise for others learning accounting.
 
-I am building this project to not only showcase and practice my accounting knowledge, but also to have some fun with programming while building this. I hope you enjoy.
 
-Within this project, I will be building code which will randomly generate datasets that I will code and enter into a general ledger and build financial statements with.
-
-This is an ongoing project where I will build more fictional scenarios to help practice my accounting knowledge. 
-
-Feel free to share as I believe this exercise could help others learning about accounting as well.
